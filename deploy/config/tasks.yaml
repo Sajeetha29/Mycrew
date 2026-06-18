@@ -1,0 +1,15 @@
+research_task:
+  description: >
+    Research the latest trends in artificial intelligence and machine learning.
+    Focus on developments in 2024 and 2025. Provide key insights and statistics.
+  expected_output: >
+    A comprehensive research report with key AI/ML trends, statistics, and insights
+  agent: researcher
+
+writing_task:
+  description: >
+    Based on the research findings, write a blog post about AI trends.
+    Make it engaging for a general audience, include examples, and keep it informative but accessible.
+  expected_output: >
+    A well-structured blog post about AI trends (800-1000 words)
+  agent: writer    
